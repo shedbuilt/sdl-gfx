@@ -1,0 +1,7 @@
+NAME=sdl-gfx
+VERSION=2.0.25
+REVISION=1
+SRC=https://downloads.sourceforge.net/project/sdlgfx/SDL_gfx-2.0.25.tar.gz
+SRCMD5=ea24ed4b82ff1304809c363494fa8e16
+BUILDDEPS=sdl
+INSTALLDEPS=sdl
